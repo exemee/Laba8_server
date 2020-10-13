@@ -1,0 +1,5 @@
+com.google.inject.extensions:guice-assistedinject:4.2.3
+org.apache.ibatis:ibatis-core:3.0
+ch.qos.logback:logback-classic:1.2.3
+org.slf4j:slf4j-api:1.7.25
+https://jdbc.postgresql.org/download.html
